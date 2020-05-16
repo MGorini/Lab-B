@@ -1,0 +1,5 @@
+linux:
+	javac com/test/bho/Bho.java
+
+Windows:
+	javac com\test\bho\Bho.java
